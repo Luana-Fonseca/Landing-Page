@@ -34,6 +34,6 @@ Site responsivo para o restaurante **food**, especializado em experiência gastr
 
 ### Acesse o site aqui:
 
-https://luana-fonseca.github.io/Landing-Page/
+https://luana-fonseca.github.io/Landing-Page-Restaurante/
 
 Obs: esta Landing Page foi baseada na landing page ensinada pela youtuber e programadora Larissa Kich!
