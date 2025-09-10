@@ -31,6 +31,9 @@ Site responsivo para o restaurante **food**, especializado em experiência gastr
 3. **Cardápio** - Produtos e menu
 4. **Avaliações** - Depoimentos de clientes
 
+### 📷 Prévia
+<img width="1883" height="927" alt="image" src="https://github.com/user-attachments/assets/1fc3fcb0-12ea-4ed1-9a4e-d70ab8b8ce48" />
+
 
 ### Acesse o site aqui:
 
